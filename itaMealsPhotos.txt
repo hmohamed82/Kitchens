@@ -1,0 +1,12 @@
+﻿[
+	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Karbonara.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Lasgnia.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Risoto.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Arancini.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Sfogliatelle.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Kanoli.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Pizza.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PestoLasgnia.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Biscoti.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Tiramisu.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PocketPizza.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Cocoli.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Cecina.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/WinterMinestrone.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Bolognise.jpg", "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Marinara.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/EggplantPasta.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/RisotoBalls.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Meatball.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Schiacciata.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/CatTongue.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaVegi.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/ChocolatePasta.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaWChicken.jpg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaForno.jpg"
+]
