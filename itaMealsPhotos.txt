@@ -21,6 +21,6 @@
 "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/CatTongue.jpg",
 "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaVegi.jpeg",
 "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/ChocolatePasta.jpeg",
-"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaWChicken.jpeg",
+"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaWChicken.jpg",
 "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaForno.jpeg"
 ]
