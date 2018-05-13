@@ -3,14 +3,12 @@
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/chsMealsPhotos/CashoChicken.jpg", 
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/egyMealsPhotos/Falfel.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/chsMealsPhotos/SweetSour.jpg",
-	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/egyMealsPhotos/Khalta.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/egyMealsPhotos/RiceSheria.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/egyMealsPhotos/NaiFiNai.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/egyMealsPhotos/Ega.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Karbonara.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Risoto.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Bolognise.jpg",
-	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/Marinara.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/CatTongue.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaVegi.jpeg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/itaMealsPhotos/PastaForno.jpeg",
@@ -23,7 +21,6 @@
 	 "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/amrMealsPhotos/AmericanGoulash.jpg",
 	 "https://raw.githubusercontent.com/hmohamed82/Kitchens/master/amrMealsPhotos/MeatLoaf.jpg", 
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/amrMealsPhotos/Coockies.jpg", 
-	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/amrMealsPhotos/ColeSlaw.jpg", 
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/amrMealsPhotos/MacCheese.jpg",
 	"https://raw.githubusercontent.com/hmohamed82/Kitchens/master/amrMealsPhotos/HushPuppies.jpg"
 ]
